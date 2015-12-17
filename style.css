@@ -1,0 +1,59 @@
+.context {
+ float: left;
+    background: white;
+    width: 25%;
+  height: 550px;
+  background: rgba(255, 255, 255, 0.9);
+  background-size: 30px;
+  background-width: 100%;
+  border-radius: 1px 1px 40px 1px;
+  text-align:left;
+
+font-family: 'Titillium Web', sans-serif;
+padding-left: 20px;
+padding-right: 10px;
+box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+
+}
+
+.bio {
+
+  width: 100%;
+}
+
+
+#intro {
+
+  color: white;
+  position: relative;
+  
+  text-align: relative;
+  background: #799FBF;
+  border-radius: 1px 1px 1px 5px;
+   width: 100%;
+  height: 40px;
+  box-shadow: 0px 0.5px 0px 1px
+  rgba(119, 119, 119, 1);
+
+}
+
+.social {
+ 
+    width:50%;
+    margin:100px;
+    margin-left: auto;
+    margin-right: auto;
+
+      }
+
+body {
+ 
+   background: url('file:///Users/Edwiq/Desktop/Website%20files/Imgs/ed-studio-v01.jpg') no-repeat;
+   background-size: 1450px 850px;
+   width: 100%;
+
+}
+
+@media all and (min-width: 800px) and (max-width: 1024px) {...}
+
+</style>
